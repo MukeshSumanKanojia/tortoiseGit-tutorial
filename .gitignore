@@ -1,1 +1,4 @@
-/abc.txt.txt
+logs/*
+!.gitkeep
+.settings
+bin//abc.txt.txt
